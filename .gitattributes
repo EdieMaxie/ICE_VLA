@@ -1,0 +1,16 @@
+# Normalize to LF in the repository so shell scripts and Python stay Unix-clean.
+* text=auto eol=lf
+
+*.sh   text eol=lf
+*.py   text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+
+*.safetensors binary
+*.bin         binary
+*.pt          binary
+*.pth         binary
+*.png         binary
+*.jpg         binary
+*.mp4         binary

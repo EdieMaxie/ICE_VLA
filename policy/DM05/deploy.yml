@@ -1,0 +1,16 @@
+action_dim: 14
+action_type: joint
+base_model_path: /root/zjh/XPolicyLab/policy/DM05/checkpoints/base
+bench_name: RoboDojo
+control_ui_enabled: false
+diffusion_steps: 10
+env_cfg_type: piper
+eval_batch: false
+host: 0.0.0.0
+model_path: /root/zjh/XPolicyLab/policy/DM05/checkpoints/checkpoint-10000
+n_action_steps: 50
+policy_name: DM05
+port: 6001
+protocol: ws
+seed: 0
+task_name: null
