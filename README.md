@@ -1,4 +1,8 @@
-# ICE_VLA
+# ICE-VLA
+
+![ICE-VLA — Piper-X 双臂操作](assets/ice-vla-hero.png)
+
+<sub>基于实机照片经 AI 合成与修饰的展示图，非未经编辑的实验记录。</sub>
 
 ICE_VLA 是面向 GOAI 双机械臂 Piper-X 平台的 VLA 评测提交仓库，包含评测机上实际
 运行的两个策略适配器（DM05 与 OpenDM）、评测初始化脚本、推理代码，以及所依赖的
